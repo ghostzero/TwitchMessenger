@@ -1,3 +1,5 @@
+[![Discord](https://discordapp.com/api/guilds/373468864098336768/embed.png)](https://ghostzero.me/discord)
+
 # Twitch Messenger API
 
 ## Setup
